@@ -447,6 +447,7 @@ So then you can easily copy and use this information in your pull requests.
 
 + [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](http://arxiv.org/abs/2401.16158) (Jan. 2024)
 
+  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2401.16158)
 
 + [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476) (Feb. 2024, CVPR 2024)
