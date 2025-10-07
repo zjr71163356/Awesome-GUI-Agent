@@ -777,6 +777,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05615)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju-real.github.io/gui-rcpo/)
 
+ + [Mobile-Agent-v3: Fundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144) (Aug. 2025)
+
+   [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.15144)
+   [![GitHub](https://img.shields.io/badge/GitHub%20Repo-MobileAgent--v3-181717?logo=github)](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v3)
+
 
 ## Surveys
 + [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) (Dec. 2024)
